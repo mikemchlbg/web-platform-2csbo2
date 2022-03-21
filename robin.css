@@ -1,0 +1,32 @@
+body {
+  background-image: url('https://i.imgur.com/N2nHj2Q.jpg');
+  color: white;
+}
+
+#grima {
+  background-image: url('https://i.imgur.com/qfh7HrX.jpg');
+}
+
+.main-robin {
+  margin: 10px;
+  margin-left: 20%
+}
+
+.main-grima {
+  margin: 5px;
+  margin-left: 15%
+}
+
+.game-console-name {
+  display: inline;
+}
+
+.about-robin-images{
+  margin: 50px;
+}
+
+.contact-form {
+  margin-left: 25%;
+  margin-right: 25%;
+  color: black;
+}
